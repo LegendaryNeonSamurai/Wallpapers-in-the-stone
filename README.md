@@ -10,7 +10,7 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
 
 * Desktop wallpapers
 * Kurzgesagt wallpapers
-* So far that's it
+* Other ones
 
 ## 📜 The Rule of the Stone
 
