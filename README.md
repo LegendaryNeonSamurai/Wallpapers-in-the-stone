@@ -174,6 +174,82 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
         <b>Solar System</b>
       </a>
     </td>
+    <td align="center">
+      <a href="./Alien%20Volcanic%20Eruption.png">
+        <img src="./Alien%20Volcanic%20Eruption.png" width="250">
+        <br>
+        <b>Alien Volcanic Eruption</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Chile%20Volcano.png">
+        <img src="./Chile%20Volcano.png" width="250">
+        <br>
+        <b>Chile Volcano</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./Earth%20and%20Moon.png">
+        <img src="./Earth%20and%20Moon.png" width="250">
+        <br>
+        <b>Earth and Moon</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Flooding%20Beach.png">
+        <img src="./Flooding%20Beach.png" width="250">
+        <br>
+        <b>Flooding Beach</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Galactic%20Web.png">
+        <img src="./Galactic%20Web.png" width="250">
+        <br>
+        <b>Galactic Web</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./New%20Zealand%20Volcano.png">
+        <img src="./New%20Zealand%20Volcano.png" width="250">
+        <br>
+        <b>New Zealand Volcano</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Purple%20Black%20Hole.png">
+        <img src="./Purple%20Black%20Hole.png" width="250">
+        <br>
+        <b>Purple Black Hole</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Statue%20of%20Liberty.png">
+        <img src="./Statue%20of%20Liberty.png" width="250">
+        <br>
+        <b>Statue of Liberty</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./World%20Map.png">
+        <img src="./World%20Map.png" width="250">
+        <br>
+        <b>World Map</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Yellowstone%20Volcano.png">
+        <img src="./Yellowstone%20Volcano.png" width="250">
+        <br>
+        <b>Yellowstone Volcano</b>
+      </a>
+    </td>
   </tr>
 </table>
 
