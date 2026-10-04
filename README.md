@@ -80,13 +80,6 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
       </a>
     </td>
     <td align="center">
-      <a href="./Blue%20Mount%20Fuji.png">
-        <img src="./Blue%20Mount%20Fuji.png" width="250">
-        <br>
-        <b>Blue Mount Fuji</b>
-      </a>
-    </td>
-    <td align="center">
       <a href="./Cloudy%20Quasar.png">
         <img src="./Cloudy%20Quasar.png" width="250">
         <br>
@@ -196,6 +189,13 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
         <img src="./forza%20horizon.png" width="250">
         <br>
         <b>Forza Horizon</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Blue%20Mount%20Fuji.png">
+        <img src="./Blue%20Mount%20Fuji.png" width="250">
+        <br>
+        <b>Blue Mount Fuji</b>
       </a>
     </td>
   </tr>
