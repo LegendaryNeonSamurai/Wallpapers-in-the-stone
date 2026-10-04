@@ -86,8 +86,14 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
         <b>Cloudy Quasar</b>
       </a>
     </td>
+    <td align="center">
+      <a href="./stars.png">
+        <img src="./stars.png" width="250">
+        <br>
+        <b>Stars</b>
+      </a>
+    </td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="./Contemplative%20Cosmonaut%201.png">
@@ -166,13 +172,6 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
         <img src="./solar%20system.png" width="250">
         <br>
         <b>Solar System</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="./stars.png">
-        <img src="./stars.png" width="250">
-        <br>
-        <b>Stars</b>
       </a>
     </td>
   </tr>
