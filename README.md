@@ -273,6 +273,45 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
         <b>Blue Mount Fuji</b>
       </a>
     </td>
+    <td align="center">
+      <a href="./Jailbreak.png">
+        <img src="./Jailbreak.png" width="250">
+        <br>
+        <b>Jailbreak</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./Smiley.png">
+        <img src="./Smiley.png" width="250">
+        <br>
+        <b>Smiley</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./fisch.png">
+        <img src="./fisch.png" width="250">
+        <br>
+        <b>Fisch</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./forsaken.png">
+        <img src="./forsaken.png" width="250">
+        <br>
+        <b>Forsaken</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./mm2.png">
+        <img src="./mm2.png" width="250">
+        <br>
+        <b>Murder Mystery 2</b>
+      </a>
+    </td>
   </tr>
 </table>
 
