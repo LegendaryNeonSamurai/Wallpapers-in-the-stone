@@ -250,6 +250,28 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
         <b>Yellowstone Volcano</b>
       </a>
     </td>
+    <td align="center">
+      <a href="./Ipa.png">
+        <img src="./Ipa.png" width="250">
+        <br>
+        <b>Ipa</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./Nimbus.png">
+        <img src="./Nimbus.png" width="250">
+        <br>
+        <b>Nimbus</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Xystiqus%20Crab%20Spider.png">
+        <img src="./Xystiqus%20Crab%20Spider.png" width="250">
+        <br>
+        <b>Xystiqus Crab Spider</b>
+      </a>
   </tr>
 </table>
 
