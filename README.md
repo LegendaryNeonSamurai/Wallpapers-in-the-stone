@@ -272,6 +272,14 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
         <br>
         <b>Xystiqus Crab Spider</b>
       </a>
+    </td>
+    <td align="center">
+      <a href="./Dinosaur%20Killer%20Astroid.png">
+        <img src="./Dinosaur%20Killer%20Astroid.png" width="250">
+        <br>
+        <b>Dinosaur Killer Astroid</b>
+      </a>
+    </td>
   </tr>
 </table>
 
