@@ -281,6 +281,75 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="./Jurassic%20Jungle%202.png">
+        <img src="./Jurassic%20Jungle%202.png" width="250">
+        <br>
+        <b>Jurassic Jungle 2</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Jurassic%20Jungle.png">
+        <img src="./Jurassic%20Jungle.png" width="250">
+        <br>
+        <b>Jurassic Jungle</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Icy%20Land.png">
+        <img src="./Icy%20Land.png" width="250">
+        <br>
+        <b>Icy Land</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./Ships.png">
+        <img src="./Ships.png" width="250">
+        <br>
+        <b>Ships</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Polar%20Night.png">
+        <img src="./Polar%20Night.png" width="250">
+        <br>
+        <b>Polar Night</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Ant%20Jungle%202.png">
+        <img src="./Ant%20Jungle%202.png" width="250">
+        <br>
+        <b>Ant Jungle 2</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./Leafy%20Ant%20Home.png">
+        <img src="./Leafy%20Ant%20Home.png" width="250">
+        <br>
+        <b>Leafy Ant Home</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Ant%20Jungle.png">
+        <img src="./Ant%20Jungle.png" width="250">
+        <br>
+        <b>Ant Jungle</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./California.png">
+        <img src="./California.png" width="250">
+        <br>
+        <b>California</b>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
